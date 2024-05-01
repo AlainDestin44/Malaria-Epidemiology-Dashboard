@@ -103,18 +103,14 @@ This project aims to visualize malaria data in Rwanda since 2002 using PowerBI. 
 - **2022**
 - **2023**
 
-## findings on public health policies and interventions, considering the limitations of the dummy data.]
-
 ## Challenges and Solutions
-- **Challenges:** [List any significant challenges encountered during the project and how they were addressed.]
+- **Challenges:**
+- **Getting the right data for all the country related Malaria**
 
 ## Future Work
-- **Improvements:** [Suggest any improvements or additional features that could enhance the dashboard.]
+- **Improvements:** Looking for real data instead of dummy data 
 
 ## Conclusion
-This project demonstrates the power of data visualization in understanding complex health issues like malaria. Through the development of an interactive dashboard, we can better inform policy decisions and guide targeted interventions. **It's important to note that the visualizations and findings presented here are based on generated data and should be interpreted with caution.**
+This project demonstrates the power of data visualization in understanding complex health issues like malaria. Through the development of an interactive dashboard, better informed policy decisions could be tsken and guide targeted interventions.
 
-## Contact Information
-- **Project Lead:** [Your Name]
-- **Email:** [Your Email]
 
